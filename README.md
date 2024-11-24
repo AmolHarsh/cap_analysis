@@ -39,7 +39,7 @@ This prototype showcases how advanced object detection models like YOLO can be a
 ## Demo and Access
 
 - **Demo Video**: [Watch the demo](https://plakshauniversity1-my.sharepoint.com/:v:/g/personal/amol_harsh_plaksha_edu_in/EXl65CYdQPVBjflfCR4h5iEBjh2sZCqISEoPm-AwBczVTg?e=EVEKIH)
-- **Website Link**: [Access the prototype here](https://amolharsh-gwxqk5uyaryctdjhmjvawg.streamlit.app/)*
+- **Website Link**: [Access the prototype here](https://amolharsh-gwxqk5uyaryctdjhmjvawg.streamlit.app/)
 
 ---
 
