@@ -5,7 +5,7 @@
 This project is a **Streamlit-powered application** designed as a prototype to demonstrate the capabilities of utilizing the latest object detection tools in capillary analysis. By leveraging the YOLO (You Only Look Once) object detection model, it provides a user-friendly interface for analyzing capillary structures in medical images and videos.
 
 > **Note:** This project is a work in progress and is part of a research collaboration at the **University of California, San Diego (UCSD)**.
-
+**MOSAIC LAB WEBSITE**: (https://mosaic-laboratory.github.io/)
 ---
 
 ## Demo and Access
